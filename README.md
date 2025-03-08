@@ -19,4 +19,4 @@ This is my solution for the [Recipe Page](https://www.freecodecamp.org/learn/ful
 8. You should have an unordered list (ul element) with at least four list items (li elements) that lists your ingredients below the first h2 element.
 9. You should have a second h2 element with the text Instructions for the instructions section.
 10. You should have an ordered list (ol element) with at least four list items that lists the recipe steps in order, below the second h2.
-11. You should have one img element with a src attribute set to a valid image, you can use https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg if you would like, and an alt attribute describing the image.
+11. You should have one img element with a src attribute set to a valid image, you can use [https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg] if you would like, and an alt attribute describing the image.
