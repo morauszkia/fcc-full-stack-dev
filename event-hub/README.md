@@ -12,7 +12,7 @@ Page was built for the [Build an Event Hub Lab](https://www.freecodecamp.org/lea
 1. You should have a `header` element.
 2. Inside the `header` element, you should have an `h1` element that contains the text Event Hub, and a `nav` element.
 3. Inside the `nav` element, you should have an unordered list of two items containing links to different sections of the page. The first item should have the text Upcoming Events, and the second item should have the text Past Events.
-4. Each link should be represented by an a element with an `href` attribute that links to the corresponding section of the page, `#upcoming-events` and `#past-events` respectively.
+4. Each link should be represented by an `a` element with an `href` attribute that links to the corresponding section of the page, `#upcoming-events` and `#past-events` respectively.
 5. You should have a `main` element that contains the different sections of the page.
 6. Inside the `main` element, you should have two `section` elements.
 7. The first `section` element should have an `id` attribute with the value `upcoming-events`
