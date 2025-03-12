@@ -9,3 +9,5 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 - [Recipe Page](./recipe-page/)
 - [Travel Agency Page](./travel-agency-page/)
 - [Video Compilation Page](./video-compilation-page)
+- [Event Hub](./event-hub)
+- [Survey Form](./survey-form)
