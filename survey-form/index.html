@@ -6,6 +6,69 @@
         <title>Survey Form</title>
     </head>
 
-    <body></body>
+    <body>
+        <main>
+            <h1 id="title">My Form</h1>
+            <p id="description">Welcome to our page! We would like to get to know you better to be able to offer you the
+                best possible experience</p>
+            <form id="survey-form">
+                <ul>
+                    <li>
+                        <label id="name-label" for="name">Please enter your name:</label>
+                        <input type="text" id="name" name="name" placeholder="John Doe" required>
+                    </li>
+                    <li>
+                        <label id="email-label" for="email">Please enter your e-mail address:</label>
+                        <input type="email" id="email" name="email" placeholder="example@email.com" required>
+                    </li>
+                    <li>
+                        <label id="number-label" for="number">How old are you?</label>
+                        <input type="number" id="number" name="age" min="1" max="120" placeholder="30">
+                    </li>
+                    <li>
+                        <label id="dropdown-label" for="dropdown">Gender</label>
+                        <select id="dropdown" name="gender">
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
+                    </li>
+                    <li>
+                        <p>Please select your highest level of education</p>
+                        <div>
+                            <label for="primary">
+                                <input type="radio" name="edu-level" id="primary" value="primary">Primary
+                            </label>
+                            <label for="secondary">
+                                <input type="radio" name="edu-level" id="secondary" value="secondary">Secondary
+                            </label>
+                            <label for="tertiary">
+                                <input type="radio" name="edu-level" id="tertiary" value="tertiary">Tertiary
+                            </label>
+                        </div>
+                    </li>
+                    <li>
+                        <p>Please select your areas of interest</p>
+                        <div>
+                            <label for="sci-fi">
+                                <input type="checkbox" name="genre" id="sci-fi" value="sci-fi">Science fiction
+                            </label>
+                            <label for="fantasy">
+                                <input type="checkbox" name="genre" id="fantasy" value="fantasy">Fantasy
+                            </label>
+                            <label for="horror">
+                                <input type="checkbox" name="genre" id="horror" value="horror">Horror
+                            </label>
+                        </div>
+                    </li>
+                    <li>
+                        <p>In case you have additional comments</p>
+                        <textarea name="comment" form="survey-form"
+                            placeholder="Enter your comment here..."></textarea><br>
+                    </li>
+                </ul>
+                <button type="submit" id="submit">Submit</button>
+            </form>
+        </main>
+    </body>
 
 </html>
