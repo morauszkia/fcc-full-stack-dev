@@ -10,7 +10,7 @@ Page was built for the [Build a Checkout Page Lab](https://www.freecodecamp.org/
 
 ## User Stories
 
-1. You should have an `h1` element with the text Checkout.
+1. You should have an `h1` element with the text `Checkout`.
 2. You should have two `section` elements immediately after the `h1` element.
 3. You should have an `h2` element with the text `Your Cart` within the first `section`.
 4. You should have an image of an item in the first `section` with appropriate alternate text. You can use this image if you would like: [https://cdn.freecodecamp.org/curriculum/labs/cube.jpg]

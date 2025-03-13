@@ -7,7 +7,35 @@
     </head>
 
     <body>
-
+        <main>
+            <h1>Checkout</h1>
+            <section>
+                <h2>Your Cart</h2>
+                <ul>
+                    <li>
+                        <figure>
+                            <img src="https://i2.pickpik.com/photos/855/751/603/shoe-sport-shoe-trail-running-sport-preview.jpg"
+                                alt="Running Shoe">
+                            <caption>Running Shoe &dollar;99</caption>
+                        </figure>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h2>Payment Information</h2>
+                <form action="">
+                    <label for="card-name">Cardholder name</label>
+                    <input type="text" id="card-name" name="card-name" placeholder="John Doe">
+                    <label for="card-number">Card number</label>
+                    <input type="text" id="card-number" name="card-number" placeholder="0000 0000 0000 0000" required
+                        aria-required="true">
+                    <label for="">Expiration date</label>
+                    <input type="text" required aria-required="true" placeholder="MM/YY">
+                    <label for="">Security code</label>
+                    <input type="password" placeholder="CVV">
+                </form>
+            </section>
+        </main>
     </body>
 
 </html>
