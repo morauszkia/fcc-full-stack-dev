@@ -12,3 +12,4 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 - [Event Hub](./event-hub/)
 - [Survey Form](./survey-form/)
 - [Book Catalog Table](./book-catalog-table/)
+- [Checkout Page](./checkout-page/)
