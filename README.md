@@ -11,3 +11,7 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 - [Video Compilation Page](./video-compilation-page)
 - [Event Hub](./event-hub)
 - [Survey Form](./survey-form)
+
+### Part II: CSS
+
+- [Business Card](./business-card/)
