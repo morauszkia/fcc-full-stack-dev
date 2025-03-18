@@ -7,14 +7,12 @@ p {
   margin: 5px 0;
 }
 
-a:link,
-a:visited {
+a {
   text-decoration: none;
   color: #333;
 }
 
-a:hover,
-a:active {
+a:hover {
   text-decoration: underline;
   color: #888;
 }
