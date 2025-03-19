@@ -17,3 +17,4 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 ### Part II: CSS
 
 - [Business Card](./business-card/)
+- [Stylized To-Do List](./to-do-list/)
