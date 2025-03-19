@@ -4,10 +4,45 @@
     <head>
         <meta charset="utf-8">
         <title>Styled To-Do List</title>
+        <link rel="stylesheet" href="./styles.css">
     </head>
 
     <body>
-
+        <main>
+            <ul class="todo-list">
+                <li>
+                    <input type="checkbox" id="todo-1">
+                    <label for="todo-1">Master React</label>
+                    <ul class="sub-item">
+                        <li><a href="https://react.dev/" target="_blank" class="sub-item-link">Read the Docs</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <input type="checkbox" id="todo-2">
+                    <label for="todo-2">Practice Vue.js</label>
+                    <ul class="sub-item">
+                        <li><a href="https://vuejs.org/" target="_blank" class="sub-item-link">Learn about
+                                reactivity</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <input type="checkbox" id="todo-3">
+                    <label for="todo-3">Improve Front End skills</label>
+                    <ul class="sub-item">
+                        <li><a href="https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX"
+                                target="_blank" class="sub-item-link">Finish FrontendMentor Challenge</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <input type="checkbox" id="todo-4">
+                    <label for="todo-4">Become a Full Stack Developer</label>
+                    <ul class="sub-item">
+                        <li><a href="https://www.freecodecamp.org/learn/full-stack-developer/" target="_blank"
+                                class="sub-item-link">Continue freeCodeCamp curriculum</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </main>
     </body>
 
 </html>
