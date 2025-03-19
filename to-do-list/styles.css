@@ -1,0 +1,32 @@
+body {
+  background-color: #031;
+}
+
+.todo-list {
+  list-style-type: none;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: yellow;
+}
+
+a:visited {
+  color: yellowgreen;
+}
+
+a:hover {
+  color: orangered;
+}
+
+a:focus {
+  outline: 1px solid orangered;
+}
+
+a:active {
+  color: crimson;
+}
