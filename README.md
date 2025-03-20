@@ -18,3 +18,4 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 
 - [Business Card](./business-card/)
 - [Stylized To-Do List](./to-do-list/)
+- [Blog Post Card](./blog-post-card/)
