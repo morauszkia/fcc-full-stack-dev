@@ -1,4 +1,4 @@
-# Business Card
+# Stylized To-Do List
 
 Page was built for the [Build a Stylized To-Do list Lab](https://www.freecodecamp.org/learn/full-stack-developer/lab-stylized-to-do-list/build-a-stylized-to-do-list)
 
