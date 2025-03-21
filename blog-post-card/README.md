@@ -16,7 +16,7 @@ Page was built for the [Design a Blog Post Card Lab](https://www.freecodecamp.or
 
    - An `h2` element with a class of `post-title` and text for the title of your blog post.
    - A `p` element with a class of `post-excerpt` and text to summarize your blog post.
-   - An a element with a class of `read-more` with the text Read More.
+   - An `a` element with a class of `read-more` with the text Read More.
 
 4. You should apply the following styles to the `.blog-post-card` element:
 
