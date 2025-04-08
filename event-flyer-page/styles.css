@@ -1,0 +1,22 @@
+body {
+  padding: 50px 0;
+  margin: 0 auto;
+  width: 70vw;
+  min-height: calc(100vh - 100px);
+}
+
+img {
+  max-width: 100%;
+}
+
+hr {
+  width: 90%;
+}
+
+section {
+  width: 100%;
+}
+
+address {
+  font-style: normal;
+}
