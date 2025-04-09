@@ -20,3 +20,4 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 - [Stylized To-Do List](./to-do-list/)
 - [Blog Post Card](./blog-post-card/)
 - [Event Flyer Page](./event-flyer-page/)
+- [Job Application Form](./job-application-form/)
