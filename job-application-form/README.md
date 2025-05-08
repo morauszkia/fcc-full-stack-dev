@@ -25,4 +25,4 @@ Page was built for the [Build a Job Application Form Lab](https://www.freecodeca
 13. The `button` element should have a `:hover` pseudo-class that changes the background color when hovered over.
 14. Use the `:checked` pseudo-class on `.radio-group input[type="radio"]` to add a border color, background color and a box shadow when the radio button is selected.
 15. Use the `:checked` pseudo-class on radio buttons to change the text color of the associated `label` when the option is selected.
-16. Add an `:nth-child` pseudo-class to the `input` elements to style the first input fields differently. (e.g., rounded corners).
+16. Add a `:first-of-type` pseudo-class to the `input` elements to style the first input field differently. (e.g., rounded corners).
