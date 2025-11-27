@@ -15,6 +15,7 @@ This repo contains my solutions for the Labs in the freeCodeCamp [Certified Full
 - [Book Catalog Table](./book-catalog-table/)
 - [Checkout Page](./checkout-page/)
 - [Movie Review Page](./movie-review-page)
+- [Multimedia Player](./multimedia-player)
 
 ### Part II: CSS
 
